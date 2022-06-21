@@ -35,6 +35,7 @@ pytz==2022.1
 pyzmq==23.1.0
 six==1.16.0
 stack-data==0.2.0
+tensorflow==2.9.1
 tornado==6.1
 traitlets==5.2.2.post1
 wcwidth==0.2.5
